@@ -21,7 +21,7 @@ Hint: N/A
 
 Attachments:\
 the_lost_flag_reloaded.tar.gz\
-(Stored at ./the_lost_flag_reloaded.tar.gz)
+(Decompressed at ./the_lost_flag_reloaded)
 
 ## The Beginning
 
